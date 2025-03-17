@@ -38,7 +38,7 @@ my_name = "𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖘 𝕭𝖆𝖇𝖚"
 
 cookies_file_path = os.getenv("COOKIES_FILE_PATH", "youtube_cookies.txt")
 # Sudo (Owner) ID
-SUDO_USERS = [123456789]  # Replace with your Telegram ID
+SUDO_USERS = [2093417522]  # Replace with your Telegram ID
 
 # Data storage for authorized users, channels, and groups
 AUTHORIZED_USERS = set()
